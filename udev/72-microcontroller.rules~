@@ -1,0 +1,2 @@
+SUBSYSTEM=="tty" ATTRS{manufacturer}=="Arduino*" SYMLINK+="ButtonBox"
+SUBSYSTEM=="tty" ATTRS{manufacturer}=="Teensyduino" SYMLINK+="LEDInfoBar"
