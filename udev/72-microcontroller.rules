@@ -3,6 +3,7 @@
 #and the led info bar (teensy based)  	   		#
 #Only accounts for one arduino and one teensy, will	#
 #need some work if more than one of either is needed	#
+#This file needs to be placed in /etc/udev/rules.d/	#
 #Joseph Doyle, MIT 8/3/18    	    	      		#
 #########################################################
 
